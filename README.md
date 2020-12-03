@@ -5,6 +5,6 @@ Bu oyun iki kişi oynayabilecek şekilde hazırlanmıştır. Oyunda 3’e 3’l�
 
 Uygulamanın algoritma kısmı Java programlama dili ile ve tasarım kısmı da XML ile Android Studio ortamında geliştirilmiştir. 
 
-![Ekran Görüntüsü](https://github.com/msensoy/AndroidOyun/blob/master/Resimler/android%20(1).jpeg) </br>
-![Ekran Görüntüsü XML](https://github.com/msensoy/AndroidOyun/blob/master/Resimler/xml.PNG) </br>
-![Ekran Görüntüsü Java](https://github.com/msensoy/AndroidOyun/blob/master/Resimler/java.PNG) </br>
+![Ekran Görüntüsü](https://github.com/ahmetsensoy/AndroidOyun/blob/master/Resimler/android%20(1).jpeg) </br>
+![Ekran Görüntüsü XML](https://github.com/ahmetsensoy/AndroidOyun/blob/master/Resimler/xml.PNG) </br>
+![Ekran Görüntüsü Java](https://github.com/ahmetsensoy/AndroidOyun/blob/master/Resimler/java.PNG) </br>
